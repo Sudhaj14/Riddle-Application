@@ -63,6 +63,7 @@ button {
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s, transform 0.3s;
+    margin-top: 10px;
 }
 
 button:hover {
@@ -79,4 +80,12 @@ details summary {
 
 details p {
     font-size: 16px;
+}
+
+#feedback {
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
 }
